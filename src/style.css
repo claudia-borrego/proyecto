@@ -1,0 +1,116 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap');
+*{
+box-sizing: border-box;
+margin: 0px;
+font-family: "roboto"
+}
+
+.menu1 a{
+    background-color: #f5536f ;  
+  color:white;
+  float:left;
+  width: 10%;
+  text-align:center;
+  padding:10px;
+  
+}
+
+.imagenlogo{
+
+    width: 100%;
+}
+
+.menu2 a{
+    background-color: #f5536f ;  
+    color:white;
+    float:right;
+    width: 10%;
+    text-aling:center;
+    padding:10px;
+    
+  }
+
+
+.boton1{
+    border: 1px solid white;
+    border-radius:40px;
+    position: relative;
+    font-size: 12px;
+    justify-content: center;
+    margin: 7px;
+    text-align:center;
+    padding: 4px 8px;
+    
+}
+
+.contenido{
+   width: auto;
+   height: 700px;
+   background-color: #f5536f;
+}
+
+div.imagen{
+    float: center;
+    height: 200px;
+    width: 500px;
+  }
+
+
+.texto{
+    width: 50%;
+    font-size: 25px;
+    color: white;
+    float: right;
+
+    
+}
+
+.parrafo{
+margin: 24px;
+font-size: 25px;
+color:white;
+float: right;
+}
+
+
+.boton2{
+    border: 5px solid #583bb6;
+    border-radius:150px;
+    position: right ;
+    font-size: 20px;
+    justify-content: left;
+    margin: 10px;
+    text-align:center;
+    background-color: #583bb6;
+    color: white;
+    font-size: 12px;
+    padding: 16px 38px;
+    border-width: 0;
+}
+
+.tamaño{
+    height: 250px;
+    background-color: #f5536f;
+}
+
+.contenido2
+{
+    display: flex;
+    justify-content: center;
+    padding-top: 96px;
+    background-color: #f5536f;
+}
+.contenido3
+{
+    position: relative;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 100%;
+    max-width: 382px;
+    padding: 16px;
+    margin-right: 30px;
+    color: #000;
+    background-color: #fff;
+    border-radius: 8px;
+}
